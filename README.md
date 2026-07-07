@@ -358,4 +358,3 @@ Em caso de dúvidas ou problemas, verifique:
 ---
 
 *PJM — Presença Jovem Missionário © 2024. Desenvolvido com ❤️ para o ministério.*
-"# pjmv1" 
